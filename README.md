@@ -31,14 +31,18 @@ This project focuses on the analysis and classification of EEG signals using adv
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/eeg-signal-classification.git
+   
 /content/drive/MyDrive/Database/Bonn Univ Dataset/
 ├── s/
 ├── z/
 ├── o/
 ├── f/
 └── n/
+
 python classify_eeg.py
+
 python cluster_eeg.py
+
 eeg-signal-classification/
 ├── data/                      # Contains EEG datasets
 ├── models/                    # Neural network and clustering models
@@ -47,11 +51,16 @@ eeg-signal-classification/
 ├── classify_eeg.py            # Supervised classification script
 ├── cluster_eeg.py             # Unsupervised clustering script
 └── README.md                  # Project documentation
+
+
 Contributing
+
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
 
 License
+
 This project is licensed under the MIT License. See LICENSE for more details.
 
 Acknowledgments
+
 EEG datasets are sourced from the Bonn University Dataset.
