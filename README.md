@@ -3,8 +3,18 @@
 This project focuses on the analysis and classification of EEG signals using advanced machine learning techniques. The aim is to extract meaningful insights from EEG data and apply supervised and unsupervised learning models for classification and clustering.
 
 ## Features
-- **Data Preprocessing**: Includes detrending, bandpass filtering, normalization, and segmentation of EEG signals.
-- **Feature Extraction**: Extracts statistical, LPC, cepstral, lattice, inverse filtering, and spectral features from EEG segments.
+- **Data Preprocessing**: Includes
+  - detrending,
+  - bandpass filtering,
+  - normalization, and
+  - segmentation of EEG signals.
+- **Feature Extraction**: Extracts
+  - statistical,
+  - LPC,
+  - cepstral,
+  - lattice,
+  - inverse filtering, and
+  - spectral features from EEG segments.
 - **Supervised Learning**: Implements and compares multiple neural network architectures:
   - LSTM
   - Bi-LSTM
